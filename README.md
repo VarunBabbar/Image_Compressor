@@ -58,9 +58,7 @@ optional arguments:
 
  ## Useful Resources
  
-The file CNN_Notes.pdf is a self-contained mathematical background of how back propagation takes place in a modern Deep Learning network. It is written by Jianxin Wu of the Lambda Group in Nanjing University, China. I found this quite a useful resource to wrap my head around some concepts, especially backpropagation through a convolution layer. The notes provide an intuitive and logically coherent insight into the structure and underlying intricacies of backpropagation. 
-
-
+https://github.com/sigproc/cued_sf2_lab for the preliminary Python code on DCT, LBT, DWT and Huffman Coding. 
 
 
 
