@@ -1,5 +1,5 @@
 # Image_Compressor
-A Deep Learning Based Image Compression Scheme developed as part of my 3rd Year Image Processing Project
+A Deep Learning Based Image Compression Scheme developed as part of my 3rd Year Image Processing Project. Note that some of the code in the folder 'cued_sf2_lab' is taken from https://github.com/sigproc/cued_sf2_lab. 
 
 
 1) To run the encoder, open Terminal / Command line and type 
