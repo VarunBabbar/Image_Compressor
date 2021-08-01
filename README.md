@@ -9,7 +9,7 @@ A Deep Learning Based Image Compression Scheme developed as part of my 3rd Year 
 
 ## General info  
 This project is an extension to my 3rd Year Project. I developed a more efficient hyper-parameter search scheme and added Deep Learning based JPEG artefact removal. 
-The code + dataset for training this artefact removal model will be added soon. 
+The code + dataset for training this artefact removal model will be added to this repository soon. 
 ## Dependencies
 The modules are created with:
 * [PyTorch 1.6](https://pytorch.org/get-started/locally/)
