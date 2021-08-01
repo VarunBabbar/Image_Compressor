@@ -15,7 +15,6 @@ The modules are created with:
 * [PyTorch 1.6](https://pytorch.org/get-started/locally/)
 * Python 3.7
 * [Numpy 1.19.2](https://pypi.org/project/numpy/)
-* [Pickle 1.0.2](https://pypi.org/project/pickle-mixin/)
  
 ## Running the Scripts
  Here is the expected syntax for the Encoder.py script. 
