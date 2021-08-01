@@ -52,7 +52,6 @@ optional arguments:
  This will save a file called 'Group_13_vlc_params.mat'. Now run:
  ```
  python3 Decoder.py --model_weights ssim_lbt_trained_DenseFuseNet_15_epochs —vlc_params Group_13_vlc_params.mat  --image_dir /Users/varunbabbar/Desktop/Flamingo.mat 
- 
  ```
  This will output the final image as a mat file in the same directory as this code. 
 
