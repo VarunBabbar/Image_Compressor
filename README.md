@@ -27,7 +27,8 @@ The modules are created with:
       --image_dir IMAGE_DIR
                             Path to image (.mat file) (default: none)
  ```
- This will save the image vlc and optimum compression hyper-parameters in a mat file in the same directory as this code. This needs to be passed to the decoder. \\
+ This will save the image vlc and optimum compression hyper-parameters in a mat file in the same directory as this code. This needs to be passed to the decoder.
+ 
  Here is the expected syntax for the Decoder.py script. 
  
  ```
