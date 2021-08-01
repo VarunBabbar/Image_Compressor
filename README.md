@@ -8,7 +8,7 @@ A Deep Learning Based Image Compression Scheme developed as part of my 3rd Year 
 * [Useful Resources](#useful-resources)
 
 ## General info  
-This project is an extension to my 3rd Year Project. I developed a more efficient hyper-parameter search scheme and added Deep Learning based JPEG artefact removal. 
+This project is an extension to my 3rd Year Project, which aims to develop a scheme to compress an image to less than 5 kB whilst retaining maximum image quality. I developed a more efficient hyper-parameter search scheme and added Deep Learning based JPEG artefact removal. 
 The code + dataset for training this artefact removal model will be added to this repository soon. 
 ## Dependencies
 The modules are created with:
@@ -52,7 +52,7 @@ optional arguments:
  ```
  python3 Decoder.py --model_weights ssim_lbt_trained_DenseFuseNet_15_epochs —vlc_params Group_13_vlc_params.mat  --image_dir /Users/varunbabbar/Desktop/Flamingo.mat 
  ```
- This will output the final image as a mat file in the same directory as this code. Note that the initial image passed to the Encoder needs to have pixel values in  the range (0,255). 
+ This will output the final image as a mat file in the same directory as this code. Note that the initial image passed to the Encoder needs to have pixel values in  the range (0,255) and has to be greyscale. 
 
 
  ## Useful Resources
