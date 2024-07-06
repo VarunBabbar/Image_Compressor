@@ -8,7 +8,7 @@ A Deep Learning Based Image Compression Scheme developed as part of my 3rd Year 
 * [Useful Resources](#useful-resources)
 
 ## General info  
-This repository is an extension to my 3rd Year Project, which aims to develop a scheme to compress an image to less than 5 kB whilst retaining maximum image quality. I developed a more efficient hyper-parameter search scheme and added Deep Learning based JPEG artefact removal. 
+This repository is an extension to my 3rd Year Project, which aims to develop a scheme to compress an image to less than 5 kB whilst retaining maximum image quality. I developed a more efficient hyper-parameter search scheme for Huffman coding and added Deep Learning based JPEG artefact removal. 
 The code + dataset for training this artefact removal model will be added to this repository soon. 
 ## Dependencies
 The modules are created with:
